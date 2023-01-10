@@ -4,7 +4,7 @@
   <title> SonarQube Bug Fixed</title>
     </head>
 <body>
-<h2>Hello T<h2>
-  <h3>who are you??</h3>
+<h2>Sonarqube Scan Successful<h2>
+  <h3>Java Web App Deployed Successfully</h3>
 </body>
 </html>
