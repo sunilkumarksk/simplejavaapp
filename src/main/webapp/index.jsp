@@ -1,4 +1,5 @@
-<!DOCTYPE>
+<!-- <!DOCTYPE>
+-->
 <html>
   <head>
   <title> SonarQube Bug Fixed</title>
