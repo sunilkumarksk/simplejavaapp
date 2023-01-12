@@ -5,6 +5,6 @@
     </head>
 <body>
 <h2>Sonarqube Scan Successful<h2>
-  <h3>Java Web App Deployed Successfully on new VM instance</h3>
+  <h3>Java Web App Deployed Successfully on new VM instance1</h3>
 </body>
 </html>
