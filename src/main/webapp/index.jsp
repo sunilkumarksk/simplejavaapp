@@ -1,7 +1,7 @@
 <!DOCTYPE>
 <html>
   <head>
-  <title> Jfrog/title>
+  <title>Jfrog</title>
     </head>
 <body>
 <h2>Jfrog<h2>
