@@ -6,5 +6,6 @@
 <body>
 <h2>Sonarqube Scan Successful<h2>
   <h3>Java Web App Deployed Successfully on new VM instance1</h3>
+  <h4>Jfrog repository updates</h4>
 </body>
 </html>
